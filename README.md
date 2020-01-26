@@ -30,6 +30,7 @@ The database consists of eight tables:
 ## Relational model 
 
 ![relational database](model/relational-model.png)
+
 *Fig 1. Classic models Inc. database relational model*
 
 ## Practice 

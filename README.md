@@ -26,12 +26,15 @@ The database consists of eight tables:
 * Products: The list of scale model cars.
 * Product Lines: The list of product line classifcation.
 
-
 ## Relational model 
 
 ![relational database](model/relational-model.png)
 
 *Fig 1. Classic models Inc. database relational model*
+
+## TODO
+
+Add indices and a list of practice questions. 
 
 ## Practice 
 
